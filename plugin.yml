@@ -1,0 +1,10 @@
+name: SubDirPluginLoader
+main: skh6075\subdirpluginloader\SubDirPluginLoader
+author: AvasKr
+api: 3.10.0
+version: 1.0.0
+website: https://github.com/GodVas
+
+permissions:
+  subdir.pluginload.permission:
+    default: op
